@@ -3,10 +3,10 @@ import setuptools
 setuptools.setup(
     name="neuroshard",
     version='1.0.0',
-    author="Daochen Zha",
-    author_email="daochen.zha@rice.edu",
+    author="nobody",
+    author_email="nobody@gmail.com",
     description="neuroshard",
-    url="https://github.com/daochenzha/neuroshard",
+    url="https://github.com/nobody/neuroshard",
     keywords=["Sharding"],
     packages=setuptools.find_packages(exclude=('tests',)),
     requires_python='>=3.8',
