@@ -14,7 +14,7 @@ Neuroshard utilizes pre-trained cost models for embedding table sharding, and ge
 ## Cite this Work
 If you find this project helpful, please cite
 ```bibtex
-@inproceedings{zha2022neuroshard,
+@inproceedings{zha2023pretrain,
   title={Pre-train and Search: Efficient Embedding Table Sharding with Pre-trained Neural Cost Models},
   author={Zha, Daochen and Feng, Louis and Luo, Liang and Bhushanam, Bhargav and Liu, Zirui and Hu, Yusuo and Nie, Jade and Huang, Yuzhen and Tian, Yuandong and Kejariwal, Arun and Hu, Xia},
   booktitle={Conference on Machine Learning and Systems},
